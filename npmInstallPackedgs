@@ -1,0 +1,4 @@
+npm install simple-peer
+npm install @types/simple-peer
+npm install bootstrap
+npm install @aspnet/signalr

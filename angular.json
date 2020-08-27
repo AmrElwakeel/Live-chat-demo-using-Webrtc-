@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "SignalRApp"
+    }
+  },
+  "defaultProject": "SignalRApp",
+  "cli": {
+    "analytics": "7f557b99-2015-4e2e-bd0b-ae58510acb5d"
+  }
 }
